@@ -24,18 +24,11 @@
           "file": "https://mininator.github.io/CTGP-7-Creator/CTGP-7/MyStuff/Characters/Skipper.chpack",
           "output": "sdmc:/CTGP-7/MyStuff/Characters/Skipper.chpack"
         }
-      ],
-     "Uninstall": [
-        {
-          "type": "deleteFile",
-          "file": "sdmc:/CTGP-7/MyStuff/Characters/Skipper.chpack",
-          
-        }
       ]
     },
     {
       "info": {
-        "title": "Mario (DS)",
+        "title": "Mario (Mario kart DS)",
         "author": "By ExoDendrite",
         "description": "",
         "category": ["Skin","Kart"],
@@ -52,7 +45,7 @@
     },
     {
       "info": {
-        "title": "Luigi (DS)",
+        "title": "Luigi (Mario Kart DS)",
         "author": "By ExoDendrite",
         "description": "",
         "category": ["Skin","Kart"],
@@ -69,7 +62,7 @@
     },
     {
       "info": {
-        "title": "Toad (DS)",
+        "title": "Toad (Mario Kart DS)",
         "author": "By ExoDendrite",
         "description": "",
         "category": ["Skin","Kart"],
@@ -183,6 +176,30 @@
           "type": "downloadFile",
           "file": "https://mininator.github.io/CTGP-7-Creator/CTGP-7/MyStuff/Characters/Fire_Mario.chpack",
           "output": "sdmc:/CTGP-7/MyStuff/Characters/Fire_Mario.chpack"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Shy Guy (Mario Kart DS) ",
+        "author": "By ExoDendrite",
+        "description": "",
+        "category": ["Skin"],
+        "console": ["3DS"],
+        "version": "1.0.0"
+      },
+      "Install Shy Guy": [
+        {
+          "type": "downloadFile",
+          "file": "https://mininator.github.io/CTGP-7-Creator/CTGP-7/MyStuff/Characters/DS_Shy_Guy.chpack",
+          "output": "sdmc:/CTGP-7/MyStuff/Characters/DS_Shy_Guy.chpack"
+        }
+      ],
+      "Install Shy Guy Blue ": [
+        {
+          "type": "downloadFile",
+          "file": "https://mininator.github.io/CTGP-7-Creator/CTGP-7/MyStuff/Characters/DS_Shy_Guy_LBlue.chpack",
+          "output": "sdmc:/CTGP-7/MyStuff/Characters/DS_Shy_Guy_LBlue.chpack"
         }
       ]
     }
