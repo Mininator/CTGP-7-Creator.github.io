@@ -245,6 +245,23 @@
         }
       ]
       
+    },
+    {
+      "info": {
+        "title": "Fire Mario",
+        "author": "By ExoDendrite",
+        "description": "",
+        "category": ["Skin"],
+        "console": ["3DS"],
+        "version": "1.0.0"
+      },
+      "Install": [
+        {
+          "type": "downloadFile",
+          "file": "https://mininator.github.io/CTGP-7-Creator/CTGP-7/MyStuff/Characters/Fire_Mario.chpack",
+          "output": "sdmc:/CTGP-7/MyStuff/Characters/Fire_Mario.chpack"
+        }
+      ]
     }
   ]
 }
