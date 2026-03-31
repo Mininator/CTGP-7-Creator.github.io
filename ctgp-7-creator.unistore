@@ -262,6 +262,109 @@
           "output": "sdmc:/CTGP-7/MyStuff/Characters/Clippy.chpack"
         }
       ]
-    }
+    },
+    {
+      "info": {
+        "title": "Mario (SNES)",
+        "author": "By Javadog",
+        "description": "",
+        "category": ["Skin"],
+        "console": ["3DS"],
+        "version": "1.0.0"
+      },
+      "Install": [
+        {
+          "type": "downloadFile",
+          "file": "https://mininator.github.io/CTGP-7-Creator/CTGP-7/MyStuff/Characters/SNES_Mario.chpack",
+          "output": "sdmc:/CTGP-7/MyStuff/Characters/SNES_Mario.chpack"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Piranha Plant +",
+        "author": "By andree1263",
+        "description": "",
+        "category": ["Skin"],
+        "console": ["3DS"],
+        "version": "1.0.0"
+      },
+      "Install": [
+        {
+          "type": "downloadFile",
+          "file": "https://mininator.github.io/CTGP-7-Creator/CTGP-7/MyStuff/Characters/pirhana plant_+.chpack",
+          "output": "sdmc:/CTGP-7/MyStuff/Characters/pirhana plant_+.chpack"
+        }
+      ]
+    },
+   {
+      "info": {
+        "title": "Mr. Krabs",
+        "author": "By Javadog",
+        "description": "",
+        "category": ["Skin"],
+        "console": ["3DS"],
+        "version": "1.0.0"
+      },
+      "Install": [
+        {
+          "type": "downloadFile",
+          "file": "https://mininator.github.io/CTGP-7-Creator/CTGP-7/MyStuff/Characters/Mr_Krabs.chpack",
+          "output": "sdmc:/CTGP-7/MyStuff/Characters/Mr_Krabs.chpack"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Peppino",
+        "author": "By Javadog",
+        "description": "",
+        "category": ["Skin"],
+        "console": ["3DS"],
+        "version": "1.0.0"
+      },
+      "Install": [
+        {
+          "type": "downloadFile",
+          "file": "https://mininator.github.io/CTGP-7-Creator/CTGP-7/MyStuff/Characters/Peppino.chpack",
+          "output": "sdmc:/CTGP-7/MyStuff/Characters/Peppino.chpack"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Shrek",
+        "author": "By Javadog",
+        "description": "",
+        "category": ["Skin"],
+        "console": ["3DS"],
+        "version": "1.0.0"
+      },
+      "Install": [
+        {
+          "type": "downloadFile",
+          "file": "https://mininator.github.io/CTGP-7-Creator/CTGP-7/MyStuff/Characters/Shrek.chpack",
+          "output": "sdmc:/CTGP-7/MyStuff/Characters/Shrek.chpack"
+        }
+      ]
+    },
+   {
+      "info": {
+        "title": "Spongebob",
+        "author": "By Javadog",
+        "description": "",
+        "category": ["Skin"],
+        "console": ["3DS"],
+        "version": "1.0.0"
+      },
+      "Install": [
+        {
+          "type": "downloadFile",
+          "file": "https://mininator.github.io/CTGP-7-Creator/CTGP-7/MyStuff/Characters/SpongeBob.chpack",
+          "output": "sdmc:/CTGP-7/MyStuff/Characters/SpongeBob.chpack"
+        }
+      ]
+    },
+   
   ]
 }
