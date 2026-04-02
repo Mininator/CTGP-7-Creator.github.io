@@ -116,6 +116,12 @@
           "file": "https://mininator.github.io/CTGP-7-Creator/CTGP-7/MyStuff/Characters/Toadsworth.chpack",
           "output": "sdmc:/CTGP-7/MyStuff/Characters/Toadsworth.chpack"
         }
+      ],
+     "Uninstall": [
+        {
+          "type": "deleteFile",
+          "file": "sdmc:/CTGP-7/MyStuff/Characters/Toadsworth.chpack"
+       }
       ]
     },
     {
@@ -133,6 +139,12 @@
           "file": "https://mininator.github.io/CTGP-7-Creator/CTGP-7/MyStuff/Characters/Classic_Mario.chpack",
           "output": "sdmc:/CTGP-7/MyStuff/Characters/Classic_Mario.chpack"
         }
+      ],
+      "Uninstall": [
+        {
+          "type": "deleteFile",
+          "file": "sdmc:/CTGP-7/MyStuff/Characters/Classic_Mario.chpack"
+       }
       ]
     },
     {
@@ -150,6 +162,12 @@
           "file": "https://mininator.github.io/CTGP-7-Creator/CTGP-7/MyStuff/Characters/Classic_Luigi.chpack",
           "output": "sdmc:/CTGP-7/MyStuff/Characters/Classic_Luigi.chpack"
         }
+      ],
+      "Uninstall": [
+        {
+          "type": "deleteFile",
+          "file": "sdmc:/CTGP-7/MyStuff/Characters/Classic_Luigi.chpack"
+       }
       ]
     },
     {
@@ -167,6 +185,12 @@
           "file": "https://mininator.github.io/CTGP-7-Creator/CTGP-7/MyStuff/Characters/Wii_Wario.chpack",
           "output": "sdmc:/CTGP-7/MyStuff/Characters/Wii_Wario.chpack"
         }
+      ],
+      "Uninstall": [
+        {
+          "type": "deleteFile",
+          "file": "sdmc:/CTGP-7/MyStuff/Characters/Wii_Wario.chpack"
+       }
       ]
     },
     {
@@ -184,6 +208,12 @@
           "file": "https://mininator.github.io/CTGP-7-Creator/CTGP-7/MyStuff/Characters/Ice_Luigi.chpack",
           "output": "sdmc:/CTGP-7/MyStuff/Characters/Ice_Luigi.chpack"
         }
+      ],
+     "Uninstall": [
+        {
+          "type": "deleteFile",
+          "file": "sdmc:/CTGP-7/MyStuff/Characters/Ice_Luigi.chpack"
+       }
       ]
     },
     {
@@ -201,6 +231,12 @@
           "file": "https://mininator.github.io/CTGP-7-Creator/CTGP-7/MyStuff/Characters/Fire_Mario.chpack",
           "output": "sdmc:/CTGP-7/MyStuff/Characters/Fire_Mario.chpack"
         }
+      ],
+     "Uninstall": [
+        {
+          "type": "deleteFile",
+          "file": "sdmc:/CTGP-7/MyStuff/Characters/Fire_Mario.chpack"
+       }
       ]
     },
     {
@@ -219,12 +255,24 @@
           "output": "sdmc:/CTGP-7/MyStuff/Characters/DS_Shy_Guy.chpack"
         }
       ],
+       "Uninstall": [
+        {
+          "type": "deleteFile",
+          "file": "sdmc:/CTGP-7/MyStuff/Characters/DS_Shy_Guy.chpack"
+       }
+      ],
       "Install Shy Guy (Light Blue)": [
         {
           "type": "downloadFile",
           "file": "https://mininator.github.io/CTGP-7-Creator/CTGP-7/MyStuff/Characters/DS_Shy_Guy_LBlue.chpack",
           "output": "sdmc:/CTGP-7/MyStuff/Characters/DS_Shy_Guy_LBlue.chpack"
         }
+      ],
+      "Uninstall": [
+        {
+          "type": "deleteFile",
+          "file": "sdmc:/CTGP-7/MyStuff/Characters/DS_Shy_Guy_LBlue.chpack"
+       }
       ],
       "Install Shy Guy (Blue)": [
         {
@@ -233,12 +281,24 @@
           "output": "sdmc:/CTGP-7/MyStuff/Characters/DS_Shy_Guy_Blue.chpack"
         }
       ],
+     "Uninstall": [
+        {
+          "type": "deleteFile",
+          "file": "sdmc:/CTGP-7/MyStuff/Characters/DS_Shy_Guy_Blue.chpack"
+       }
+      ],
       "Install Shy Guy (Yellow)": [
         {
           "type": "downloadFile",
           "file": "https://mininator.github.io/CTGP-7-Creator/CTGP-7/MyStuff/Characters/DS_Shy_Guy_Yellow.chpack",
           "output": "sdmc:/CTGP-7/MyStuff/Characters/DS_Shy_Guy_Yellow.chpack"
         }
+      ],
+      "Uninstall": [
+        {
+          "type": "deleteFile",
+          "file": "sdmc:/CTGP-7/MyStuff/Characters/DS_Shy_Guy_Yellow.chpack"
+       }
       ],
       "Install Shy Guy (Green)": [
         {
@@ -247,12 +307,24 @@
           "output": "sdmc:/CTGP-7/MyStuff/Characters/DS_Shy_Guy_Green.chpack"
         }
       ],
+      "Uninstall": [
+        {
+          "type": "deleteFile",
+          "file": "sdmc:/CTGP-7/MyStuff/Characters/DS_Shy_Guy_Green.chpack"
+       }
+      ],
       "Install Shy Guy (Pink)": [
         {
           "type": "downloadFile",
           "file": "https://mininator.github.io/CTGP-7-Creator/CTGP-7/MyStuff/Characters/DS_Shy_Guy_Pink.chpack",
           "output": "sdmc:/CTGP-7/MyStuff/Characters/DS_Shy_Guy_Pink.chpack"
         }
+      ],
+     "Uninstall": [
+        {
+          "type": "deleteFile",
+          "file": "sdmc:/CTGP-7/MyStuff/Characters/DS_Shy_Guy_Pink.chpack"
+       }
       ],
       "Install Shy Guy (Black)": [
         {
@@ -261,12 +333,24 @@
           "output": "sdmc:/CTGP-7/MyStuff/Characters/DS_Shy_Guy_Black.chpack"
         }
       ],
+     "Uninstall": [
+        {
+          "type": "deleteFile",
+          "file": "sdmc:/CTGP-7/MyStuff/Characters/DS_Shy_Guy_Black.chpack"
+       }
+      ],
       "Install Shy Guy (White)": [
         {
           "type": "downloadFile",
           "file": "https://mininator.github.io/CTGP-7-Creator/CTGP-7/MyStuff/Characters/DS_Shy_Guy_White.chpack",
           "output": "sdmc:/CTGP-7/MyStuff/Characters/DS_Shy_Guy_White.chpack"
         }
+      ],
+     "Uninstall": [
+        {
+          "type": "deleteFile",
+          "file": "sdmc:/CTGP-7/MyStuff/Characters/DS_Shy_Guy_White.chpack"
+       }
       ]
       
     },
@@ -285,6 +369,12 @@
           "file": "https://mininator.github.io/CTGP-7-Creator/CTGP-7/MyStuff/Characters/Clippy.chpack",
           "output": "sdmc:/CTGP-7/MyStuff/Characters/Clippy.chpack"
         }
+      ],
+      "Uninstall": [
+        {
+          "type": "deleteFile",
+          "file": "sdmc:/CTGP-7/MyStuff/Characters/Clippy.chpack"
+       }
       ]
     },
     {
@@ -302,6 +392,12 @@
           "file": "https://mininator.github.io/CTGP-7-Creator/CTGP-7/MyStuff/Characters/SNES_Mario.chpack",
           "output": "sdmc:/CTGP-7/MyStuff/Characters/SNES_Mario.chpack"
         }
+      ],
+     "Uninstall": [
+        {
+          "type": "deleteFile",
+          "file": "sdmc:/CTGP-7/MyStuff/Characters/SNES_Mario.chpack"
+       }
       ]
     },
     {
@@ -319,6 +415,12 @@
           "file": "https://mininator.github.io/CTGP-7-Creator/CTGP-7/MyStuff/Characters/pirhana plant_+.chpack",
           "output": "sdmc:/CTGP-7/MyStuff/Characters/pirhana plant_+.chpack"
         }
+      ],
+     "Uninstall": [
+        {
+          "type": "deleteFile",
+          "file": "sdmc:/CTGP-7/MyStuff/Characters/pirhana plant_+.chpack"
+       }
       ]
     },
    {
@@ -336,6 +438,12 @@
           "file": "https://mininator.github.io/CTGP-7-Creator/CTGP-7/MyStuff/Characters/Mr_Krabs.chpack",
           "output": "sdmc:/CTGP-7/MyStuff/Characters/Mr_Krabs.chpack"
         }
+      ],
+     "Uninstall": [
+        {
+          "type": "deleteFile",
+          "file": "sdmc:/CTGP-7/MyStuff/Characters/Mr_Krabs.chpack"
+       }
       ]
     },
     {
@@ -353,6 +461,12 @@
           "file": "https://mininator.github.io/CTGP-7-Creator/CTGP-7/MyStuff/Characters/Peppino.chpack",
           "output": "sdmc:/CTGP-7/MyStuff/Characters/Peppino.chpack"
         }
+      ],
+      "Uninstall": [
+        {
+          "type": "deleteFile",
+          "file": "sdmc:/CTGP-7/MyStuff/Characters/Peppino.chpack"
+       }
       ]
     },
     {
@@ -370,6 +484,12 @@
           "file": "https://mininator.github.io/CTGP-7-Creator/CTGP-7/MyStuff/Characters/Shrek.chpack",
           "output": "sdmc:/CTGP-7/MyStuff/Characters/Shrek.chpack"
         }
+      ],
+     "Uninstall": [
+        {
+          "type": "deleteFile",
+          "file": "sdmc:/CTGP-7/MyStuff/Characters/Shrek.chpack"
+       }
       ]
     },
    {
@@ -387,8 +507,82 @@
           "file": "https://mininator.github.io/CTGP-7-Creator/CTGP-7/MyStuff/Characters/SpongeBob.chpack",
           "output": "sdmc:/CTGP-7/MyStuff/Characters/SpongeBob.chpack"
         }
+      ],
+     "Uninstall": [
+        {
+          "type": "deleteFile",
+          "file": "sdmc:/CTGP-7/MyStuff/Characters/SpongeBob.chpack"
+       }
+      ]
+    },
+    {
+      "info": {
+        "title": "Donkey Kong (Mario Kart DS)",
+        "author": "By Javadog",
+        "description": "",
+        "category": ["Skin"],
+        "console": ["3DS"],
+        "version": "1.0.0"
+      },
+      "Install": [
+        {
+          "type": "downloadFile",
+          "file": "https://mininator.github.io/CTGP-7-Creator/CTGP-7/MyStuff/Characters/DS_Donkey_Kong.chpack",
+          "output": "sdmc:/CTGP-7/MyStuff/Characters/DS_Donkey_Kong.chpack"
+        }
+      ],
+     "Uninstall": [
+        {
+          "type": "deleteFile",
+          "file": "sdmc:/CTGP-7/MyStuff/Characters/DS_Donkey_Kong.chpack"
+       }
+      ]
+    },
+    {
+      "info": {
+        "title": "Waluigi (Mario Kart DS)",
+        "author": "By Javadog",
+        "description": "",
+        "category": ["Skin"],
+        "console": ["3DS"],
+        "version": "1.0.0"
+      },
+      "Install": [
+        {
+          "type": "downloadFile",
+          "file": "https://mininator.github.io/CTGP-7-Creator/CTGP-7/MyStuff/Characters/DS_Waluigi.chpack",
+          "output": "sdmc:/CTGP-7/MyStuff/Characters/DS_Waluigi.chpack"
+        }
+      ],
+     "Uninstall": [
+        {
+          "type": "deleteFile",
+          "file": "sdmc:/CTGP-7/MyStuff/Characters/DS_Waluigi.chpack"
+       }
+      ]
+    },
+   {
+      "info": {
+        "title": "Wario (Mario Kart DS)",
+        "author": "By Javadog",
+        "description": "",
+        "category": ["Skin"],
+        "console": ["3DS"],
+        "version": "1.0.0"
+      },
+      "Install": [
+        {
+          "type": "downloadFile",
+          "file": "https://mininator.github.io/CTGP-7-Creator/CTGP-7/MyStuff/Characters/DS_Wario.chpack",
+          "output": "sdmc:/CTGP-7/MyStuff/Characters/DS_Wario.chpack"
+        }
+      ],
+     "Uninstall": [
+        {
+          "type": "deleteFile",
+          "file": "sdmc:/CTGP-7/MyStuff/Characters/DS_Wario.chpack"
+       }
       ]
     }
-   
   ]
 }
