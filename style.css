@@ -102,46 +102,71 @@ canvas{
 
 /* BLOCKS */
 .blocks{
-  max-width:900px;
-  margin:60px auto;
+  max-width:1000px;
+  margin:70px auto;
+  padding:0 20px;
   display:flex;
   flex-direction:column;
-  gap:40px;
+  gap:50px;
   position:relative;
   z-index:2;
 }
+
+/* CHAQUE BLOCK */
 .block{
   display:flex;
+  width:100%;
 }
+
+/* alternance gauche / droite */
 .block:nth-child(even){
   justify-content:flex-end;
 }
+
+/* CARD */
 .card{
   width:60%;
-  background:rgba(20,30,70,0.6);
-  padding:20px;
-  border-radius:15px;
-  backdrop-filter:blur(10px);
-  animation: float 4s ease-in-out infinite;
+  background:rgba(20,30,70,0.5);
+  padding:18px;
+  border-radius:18px;
+
+  backdrop-filter:blur(12px);
+  border:1px solid rgba(255,255,255,0.08);
+
   display:flex;
   justify-content:center;
   align-items:center;
   overflow:hidden;
-}
-.card img{
-  width:100%;
-  border-radius:15px;
-  object-fit:cover;
-  transition: transform 0.5s ease, box-shadow 0.5s ease;
-}
-.card img:hover{
-  transform: scale(1.05) rotate(1deg);
-  box-shadow: 0 0 25px rgba(100,180,255,0.7);
+
+  animation: float 4s ease-in-out infinite;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
 }
 
+/* effet hover card */
+.card:hover{
+  transform: translateY(-5px) scale(1.01);
+  box-shadow:0 10px 30px rgba(0,0,0,0.4);
+}
+
+/* IMAGE */
+.card img{
+  width:100%;
+  border-radius:12px;
+  object-fit:cover;
+
+  transition: transform 0.4s ease, box-shadow 0.4s ease;
+}
+
+/* hover image */
+.card img:hover{
+  transform: scale(1.04);
+  box-shadow:0 0 30px rgba(100,180,255,0.6);
+}
+
+/* FLOAT ANIMATION */
 @keyframes float{
   0%,100%{transform:translateY(0);}
-  50%{transform:translateY(-10px);}
+  50%{transform:translateY(-8px);}
 }
 
 
