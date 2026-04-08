@@ -583,6 +583,98 @@
           "file": "sdmc:/CTGP-7/MyStuff/Characters/DS_Wario.chpack"
        }
       ]
+    },
+   {
+      "info": {
+        "title": "Dry Bowser (Gold)",
+        "author": "ExoDendrite",
+        "description": "",
+        "category": ["Skin"],
+        "console": ["3DS"],
+        "version": "1.0.0"
+      },
+      "Install": [
+        {
+          "type": "downloadFile",
+          "file": "https://mininator.github.io/CTGP-7-Creator/CTGP-7/MyStuff/Characters/Dry_Bowser_Gold.chpack",
+          "output": "sdmc:/CTGP-7/MyStuff/Characters/Dry_Bowser_Gold.chpack"
+        }
+      ],
+      "Uninstall": [
+        {
+          "type": "deleteFile",
+          "file": "sdmc:/CTGP-7/MyStuff/Characters/Dry_Bowser_Gold.chpack"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Fire Wario",
+        "author": "ExoDendrite",
+        "description": "",
+        "category": ["Skin"],
+        "console": ["3DS"],
+        "version": "1.0.0"
+      },
+      "Install": [
+        {
+          "type": "downloadFile",
+          "file": "https://mininator.github.io/CTGP-7-Creator/CTGP-7/MyStuff/Characters/Fire_Wario.chpack",
+          "output": "sdmc:/CTGP-7/MyStuff/Characters/Fire_Wario.chpack"
+        }
+      ],
+      "Uninstall": [
+        {
+          "type": "deleteFile",
+          "file": "sdmc:/CTGP-7/MyStuff/Characters/Fire_Wario.chpack"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Petey Piranha (Gold)",
+        "author": "ExoDendrite",
+        "description": "",
+        "category": ["Skin"],
+        "console": ["3DS"],
+        "version": "1.0.0"
+      },
+      "Install": [
+        {
+          "type": "downloadFile",
+          "file": "https://mininator.github.io/CTGP-7-Creator/CTGP-7/MyStuff/Characters/Petey_Piranha_Gold.chpack",
+          "output": "sdmc:/CTGP-7/MyStuff/Characters/Petey_Piranha_Gold.chpack"
+        }
+      ],
+      "Uninstall": [
+        {
+          "type": "deleteFile",
+          "file": "sdmc:/CTGP-7/MyStuff/Characters/Petey_Piranha_Gold.chpack"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Wiggler (Gold)",
+        "author": "ExoDendrite",
+        "description": "",
+        "category": ["Skin"],
+        "console": ["3DS"],
+        "version": "1.0.0"
+      },
+      "Install": [
+        {
+          "type": "downloadFile",
+          "file": "https://mininator.github.io/CTGP-7-Creator/CTGP-7/MyStuff/Characters/Wiggler_Gold.chpack",
+          "output": "sdmc:/CTGP-7/MyStuff/Characters/Wiggler_Gold.chpack"
+        }
+      ],
+      "Uninstall": [
+        {
+          "type": "deleteFile",
+          "file": "sdmc:/CTGP-7/MyStuff/Characters/Wiggler_Gold.chpack"
+        }
+      ]
     }
   ]
 }
